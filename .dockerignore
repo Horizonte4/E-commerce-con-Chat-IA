@@ -1,12 +1,10 @@
 venv/
 .venv312/
 .env
+.git/
 __pycache__/
 *.pyc
 .pytest_cache/
-.coverage
+evidencias/
 .tmp/
 data/
-*.db
-.vscode/
-.idea/

@@ -1,0 +1,11 @@
+[project]
+name = "e-commerce-chat-ai"
+version = "0.1.0"
+description = "API FastAPI para e-commerce con chat IA"
+requires-python = ">=3.12,<3.13"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test.py"]
+python_classes = ["Test"]
+python_functions = ["test*"]
